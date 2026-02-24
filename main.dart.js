@@ -79650,10 +79650,10 @@ q.aj(new A.aiQ(q))
 p=A.uD(2,r,B.a4,!1)
 s=window
 s.toString
-B.yc.Sv(s,"https://wa.me/50412345678?text="+p,"_blank")}},
+B.yc.Sv(s,"https://wa.me/50499056589?text="+p,"_blank")}},
 a7L(){var s=A.uD(2,"Hola! Me gustar\xeda confirmar mi asistencia a la boda de Carlos y Mar\xeda.",B.a4,!1),r=window
 r.toString
-B.yc.Sv(r,"https://wa.me/50412345678?text="+s,"_blank")}}
+B.yc.Sv(r,"https://wa.me/50499056589?text="+s,"_blank")}}
 A.aiM.prototype={
 $1(a){if(a.length===0)return"Por favor ingresa tu nombre"
 return null},
