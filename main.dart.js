@@ -79636,7 +79636,7 @@ q=A.cM(16)
 p=A.jM(A.ac(B.c.ai(76.5),B.m.n()>>>16&255,B.m.n()>>>8&255,B.m.n()&255),1)
 o=A.ef(B.D0,B.m,l,36)
 n=a?16:18
-n=A.b3("Banco: BAC Honduras\nCuenta: 123-456-789\nA nombre de: Carlos Rodr\xedguez\n",l,l,l,A.br().$3$color$fontSize$height(A.ac(g,B.h.n()>>>16&255,B.h.n()>>>8&255,B.h.n()&255),n,1.8),B.bX,l)
+n=A.b3("Banco: BAC Honduras\nCuenta: 744311561\nA nombre de: Luis Fernando Alvarez\n",l,l,l,A.br().$3$color$fontSize$height(A.ac(g,B.h.n()>>>16&255,B.h.n()>>>8&255,B.h.n()&255),n,1.8),B.bX,l)
 g=A.jM(B.m,1)
 m=A.cM(20)
 return A.cy(A.b([j,B.hv,i,B.bV,h,B.ht,A.bi(A.cy(A.b([o,B.bA,n,B.bA,A.eQ(A.hp(l,A.bi(A.hE(A.b([A.ef(B.D8,B.m,l,16),B.hs,A.b3("Copiar n\xfamero",l,l,l,A.br().$2$color$fontSize(B.m,14),l,l)],k),B.A,B.y,B.cE),B.n,l,l,new A.bt(l,l,g,m,l,l,B.I),l,l,B.Ck,l),B.a3,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.aiJ(this),l,l,l,l,l,l),B.b2,l,l,l,l)],k),B.A,B.y,B.G),B.n,l,B.z1,new A.bt(r,l,p,q,l,l,B.I),l,l,new A.aj(s,s,s,s),l)],k),B.A,B.y,B.G)},
